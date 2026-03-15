@@ -1,0 +1,8 @@
+car_price_model.pkl
+*.pkl
+venv/
+__pycache__/
+*.pkl
+*.joblib
+*.csv
+.ipynb_checkpoints/
